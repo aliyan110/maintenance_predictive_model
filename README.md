@@ -13,7 +13,6 @@ The dataset includes data on various mechanical components, capturing parameters
 Repository Structure
 
     /data: Contains the dataset used for training and evaluation.
-    /models: Implementation of the predictive models.
     /scripts: Scripts for training models, evaluating performance, and generating results.
     /results: Results and analysis outputs.
     README.md: This file, providing an overview of the project, dataset, models, and usage instructions.
